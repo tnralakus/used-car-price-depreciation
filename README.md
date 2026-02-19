@@ -40,3 +40,22 @@ We suggest the following updates to our current buying strategies based on the d
 ## Summation and Forward Planning
 This model serves as a financial **safeguard**, utilizing a **Log-Transformed** structure to mitigate the risk of price outliers. **Next Phase:** We can proceed with a **"What-If" Scenario** to calculate potential profit gains from further error reduction.
 
+## Setup and Installation
+
+### Project Structure
+* `data/vehicles.csv`: The raw dataset containing all car info.
+* `car_price_depreciation.ipynb`: A comprehensive Jupyter Notebook containing data cleaning, exploratory data analysis (EDA), and modeling.
+
+### Prerequisites
+You will need Python 3.x and the following libraries:
+* `pandas`
+* `seaborn`
+* `matplotlib`
+* `plotly`
+* `sklearn`
+
+### Running the Analysis
+1. Clone the repository:
+   `git clone https://github.com/tnralakus/used-car-price-depreciation.git`
+2. Navigate to the directory and launch Jupyter:
+   `jupyter notebook car_price_depreciation.ipynb`
