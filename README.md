@@ -43,7 +43,7 @@ This model serves as a financial **safeguard**, utilizing a **Log-Transformed** 
 ## Setup and Installation
 
 ### Project Structure
-* `data/vehicles.csv`: The raw dataset containing all car info.
+* `data/vehicles.csv`: The raw dataset containing all car info. ##NOTE:Skipping this since the data file is too big and not necessary. 
 * `car_price_depreciation.ipynb`: A comprehensive Jupyter Notebook containing data cleaning, exploratory data analysis (EDA), and modeling.
 
 ### Prerequisites
